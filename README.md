@@ -10,9 +10,9 @@
  Total Vehicles: 150.48K
  Average Electric Range: 67.88 KM
 * Vehicle Type Distribution:
-
  BEV (Battery Electric Vehicles): 117K (78%)
  PHEV (Plug-in Hybrid Electric Vehicles): 34K (29%)
+ ![image](https://github.com/sridevi-vaddemani/power-bi/blob/main/Electric%20Vehicle%20dash%20board.png)
 # Insights by Year:
 
 * Growth in EV sales from 2000 to 2022, highlighting a significant rise in adoption after 2010.
@@ -28,7 +28,6 @@ Other notable manufacturers: Ford, BMW, Toyota, Hyundai, and more.
  Model Y: 28.5K
  Model 3: 27.71K
  LEAF, BOLT EV, NIRO, and others.
-![image](https://github.com/sridevi-vaddemani/power-bi/blob/main/Electric%20Vehicle%20dash%20board.png)
 # Eligibility creteria:
 * Breakdown of vehicles based on Clean Alternative Fuel Vehicle (CAFV) eligibility.
  # Objectives:
