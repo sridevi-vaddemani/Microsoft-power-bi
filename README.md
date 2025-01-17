@@ -28,6 +28,7 @@ Other notable manufacturers: Ford, BMW, Toyota, Hyundai, and more.
  Model Y: 28.5K
  Model 3: 27.71K
  LEAF, BOLT EV, NIRO, and others.
+![image](https://github.com/sridevi-vaddemani/power-bi/blob/main/Electric%20Vehicle%20dash%20board.png)
 # Eligibility creteria:
 * Breakdown of vehicles based on Clean Alternative Fuel Vehicle (CAFV) eligibility.
  # Objectives:
