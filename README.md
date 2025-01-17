@@ -1,11 +1,11 @@
 # Electric vehicles dash board using power bi
 ![image](https://github.com/sridevi-vaddemani/power-bi/blob/main/Car%20sales.png)
 
-# Overview
+# Overview:
 * The Electric Vehicle Analysis Dashboard provides comprehensive insights into the adoption and distribution of electric vehicles (EVs) across different parameters, including vehicle type, make, model, state, and 
  eligibility. Built using Power BI, the dashboard helps visualize trends in electric vehicle sales and electric range over time, empowering stakeholders to make informed decisions about EV markets and in
  frastructure.
-# Key Features
+# Key Features:
 * Total Vehicle Analysis:
  Total Vehicles: 150.48K
  Average Electric Range: 67.88 KM
@@ -30,21 +30,21 @@ Other notable manufacturers: Ford, BMW, Toyota, Hyundai, and more.
  LEAF, BOLT EV, NIRO, and others.
 # Eligibility creteria:
 * Breakdown of vehicles based on Clean Alternative Fuel Vehicle (CAFV) eligibility.
- # Objectives
+ # Objectives:
  * To track the growth and trends in electric vehicle adoption.
  To analyze market share by make and model.
  To identify geographical trends in EV ownership.
  To understand the distribution of EV types (BEV, PHEV) and their eligibility under CAFV programs.
-# Technology used
+# Technology used:
  * Power BI: Used for building the dashboard and visualizing data.
  Data Sources: Includes historical EV registration data, vehicle make/model details, and CAFV eligibility.
  Data Processing: Cleaned and prepared raw data for analysis.
-# Insights gained
+# Insights gained:
 * Exponential Growth: EV adoption has grown significantly, especially post-2015, driven by innovation and government incentives.
  Dominant Players: Tesla leads the EV market, followed by Nissan, Chevrolet, and Ford.
  Geographical Insights: Certain states show higher EV adoption, providing an opportunity for targeted infrastructure development.
  Model Popularity: Tesla’s Model Y and Model 3 dominate the EV market, indicating consumer preference for specific models.
- # future enhancement
+ # future enhancement:
 * Integration with real-time EV sales data for dynamic updates.
   Addition of charging station analysis to assess infrastructure adequacy.
   Predictive modeling for EV market trends over the next decade.
