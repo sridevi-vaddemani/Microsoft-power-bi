@@ -43,8 +43,8 @@ Other notable manufacturers: Ford, BMW, Toyota, Hyundai, and more.
 * Exponential Growth: EV adoption has grown significantly, especially post-2015, driven by innovation and government incentives.
  Dominant Players: Tesla leads the EV market, followed by Nissan, Chevrolet, and Ford.
  Geographical Insights: Certain states show higher EV adoption, providing an opportunity for targeted infrastructure development.
-Model Popularity: Tesla’s Model Y and Model 3 dominate the EV market, indicating consumer preference for specific models.
+ Model Popularity: Tesla’s Model Y and Model 3 dominate the EV market, indicating consumer preference for specific models.
  # future enhancement
-Integration with real-time EV sales data for dynamic updates.
-Addition of charging station analysis to assess infrastructure adequacy.
-Predictive modeling for EV market trends over the next decade.
+* Integration with real-time EV sales data for dynamic updates.
+  Addition of charging station analysis to assess infrastructure adequacy.
+  Predictive modeling for EV market trends over the next decade.
