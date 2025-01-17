@@ -20,31 +20,30 @@ Tesla: 69K
 Nissan: 13K
 Chevrolet: 12K
 Other notable manufacturers: Ford, BMW, Toyota, Hyundai, and more.
-# State-Level Analysis:
+# State level features:
 A heatmap showcasing the distribution of EVs across the United States.
 Model-Based Distribution:
-
 Popular EV models include:
 Model Y: 28.5K
 Model 3: 27.71K
 LEAF, BOLT EV, NIRO, and others.
-# Eligibility Insights:
+# Eligibility creteria:
 Breakdown of vehicles based on Clean Alternative Fuel Vehicle (CAFV) eligibility.
  # Objectives
 To track the growth and trends in electric vehicle adoption.
 To analyze market share by make and model.
 To identify geographical trends in EV ownership.
 To understand the distribution of EV types (BEV, PHEV) and their eligibility under CAFV programs.
-# Technologies Used
+# Technology used
 Power BI: Used for building the dashboard and visualizing data.
 Data Sources: Includes historical EV registration data, vehicle make/model details, and CAFV eligibility.
 Data Processing: Cleaned and prepared raw data for analysis.
-# Insights Gained
+# Insights gained
 Exponential Growth: EV adoption has grown significantly, especially post-2015, driven by innovation and government incentives.
 Dominant Players: Tesla leads the EV market, followed by Nissan, Chevrolet, and Ford.
 Geographical Insights: Certain states show higher EV adoption, providing an opportunity for targeted infrastructure development.
 Model Popularity: Tesla’s Model Y and Model 3 dominate the EV market, indicating consumer preference for specific models.
- # Future Enhancements
+ # future enhancement
 Integration with real-time EV sales data for dynamic updates.
 Addition of charging station analysis to assess infrastructure adequacy.
 Predictive modeling for EV market trends over the next decade.
